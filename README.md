@@ -5,7 +5,6 @@ Link que da acesso ao site do jogo 'https://sitedogalaxydefenders.netlify.app'
 
 O codigo base do jogo foi feito em Java script, Html, Css, JSON
 
-
 API utilizada 'https://developers.google.com/fonts/docs/css2?hl=pt-br'
 
 Link de demonstração do jogo = https://youtu.be/HJTc6wlDlzE
