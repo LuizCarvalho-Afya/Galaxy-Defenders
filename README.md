@@ -14,7 +14,6 @@ API utilizada 'https://developers.google.com/fonts/docs/css2?hl=pt-br'
 Link de demonstração do jogo = https://youtu.be/HJTc6wlDlzE
 
 Desenvolvido por:
-Luiz Gustavo Fontes de Carvalho/LuizCarvalho-Afya
+Luiz Gustavo Fontes de Carvalho/https://github.com/LuizCarvalho-Afya 
 Matheus Cordeiro/https://github.com/MatheusTrindade2210
 Sanelva Antonio/https://github.com/sanelvaantonio
-Marcelo Tenorio/ ----------------
