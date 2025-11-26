@@ -20,8 +20,3 @@ Sanelva Antonio/https://github.com/sanelvaantonio
 <img width="1920" height="1080" alt="Captura de Tela (18)" src="https://github.com/user-attachments/assets/7acaa90b-3471-4aff-8f29-abe67742e308" />
 
 <img width="1920" height="1080" alt="Captura de Tela (19)" src="https://github.com/user-attachments/assets/b22e2ee7-fb22-452d-9d61-d88569eee51a" />
-
-
-
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/955e8c48-a0cb-4ef9-af3c-16eef8230fe9" />
