@@ -10,3 +10,11 @@ O codigo base do jogo foi feito em Java script, Html, Css, JSON
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7210126-f7c6-457b-8f24-b695430a78cc" />
 
 API utilizada 'https://developers.google.com/fonts/docs/css2?hl=pt-br'
+
+Link de demonstração do jogo = https://youtu.be/HJTc6wlDlzE
+
+Desenvolvido por:
+Luiz Gustavo Fontes de Carvalho/LuizCarvalho-Afya
+Matheus Cordeiro/https://github.com/MatheusTrindade2210
+Sanelva Antonio/https://github.com/sanelvaantonio
+Marcelo Tenorio/ ----------------
